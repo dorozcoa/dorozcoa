@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dorozcoa
 - 👀 I’m interested in software development and databases analysis
-- 🌱 I’m currently learning software engineering
+- 🌱 I’m currently learning software engineering in Politecnico Grancolombiano
 - 💞️ I’m looking to collaborate on different software projects
 - 📫 How to reach me? davidorozcoarcila@gmail.com
 
